@@ -4,7 +4,6 @@ public class Main {
     public static void main(String[] args) {
 
         // TODO: criar metodo para avançar musica, voltar musica, aumentar volume e diminuir o volume.
-        // TODO: criar um repositorio no git iphone-simulator-java
 
         Iphone iphone = new Iphone();
 
